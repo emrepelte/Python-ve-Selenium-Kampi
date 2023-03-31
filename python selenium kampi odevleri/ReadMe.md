@@ -12,7 +12,7 @@ belirli bir durumu başlatma ve testlerin tamamlanmasından sonra temizleme işl
 Bu, testlerinizin farklı girdi değerleriyle nasıl davrandığını kontrol etmek için kullanışlıdır.
 
 
-
+# SauceDemo Testleri
 ## Test Ekran Görüntüleri
 
 1. `test_username_required`:
